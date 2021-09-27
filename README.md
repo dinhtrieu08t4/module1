@@ -1,2 +1,3 @@
 # module1
-module dau tien cua Xiu git ignore
+
+Day la bai tap 1: la commit dau tien
